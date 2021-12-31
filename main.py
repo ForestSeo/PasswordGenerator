@@ -4,6 +4,7 @@ import pyperclip
 import itertools
 import PySimpleGUI as sg
 
+# ランダムな文字列を作ってくれる
 
 MARKS = ["!", "-", "_", ".", "?", "+"]
 
